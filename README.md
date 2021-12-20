@@ -12,8 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️Styled component
 
-✔️React icon
-
+✔️React Icons
 
 # 💻 Projeto
 
